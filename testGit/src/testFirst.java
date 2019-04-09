@@ -3,6 +3,7 @@ public class testFirst {
         //李劲松
         System.out.println("hahahah");//this is master marks
         //我i就是这样
+        //人不可以不这样
     }
     public void success(){
         System.out.println("success is not easy");

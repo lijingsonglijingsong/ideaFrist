@@ -6,4 +6,7 @@ public class testFirst {
     public void success(){
         System.out.println("success is not easy");
     }
+    public void error(){
+        System.out.println("xixixixi");
+    }
 }
